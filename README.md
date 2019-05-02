@@ -1,7 +1,7 @@
 # Course: [Advanced CSS and SASS ](https://www.udemy.com/advanced-css-and-sass/)
 ## Author: Jonas Schmedtmann
 ## Student: Oh Sailey
-##### [See the live demo ](https://ohsailey.github.io/Nexters/)
+##### [See the live demo ](https://ohsailey.github.io/Trillo/)
 ---
 
 ## Tools used in this course:
@@ -10,6 +10,6 @@
 3. Transitions
 4. Use of CSS Color variables
 5. Color-gradients
-6. CSS Grids
+6. Flexbox
 7. Background Images, Background Videos and more....
 
